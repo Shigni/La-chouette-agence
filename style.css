@@ -153,6 +153,14 @@ a:hover {
     color: rgba(255, 255, 255, 1);
 }
 
+.d-bloc .social a {
+    color: #474747;
+}
+
+.d-bloc .social a:hover {
+    color: black;
+}
+
 .d-bloc .navbar-toggle .icon-bar {
     background: rgba(255, 255, 255, 1);
 }
