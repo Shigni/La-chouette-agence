@@ -154,7 +154,7 @@ a:hover {
 
 .d-bloc a .icon-md,
 .d-bloc .social a {
-    color: #474747;
+    color: #171717;
 }
 .d-bloc a:hover .icon-md,
 .d-bloc .social a:hover {
@@ -691,7 +691,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
