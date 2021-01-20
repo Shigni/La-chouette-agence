@@ -370,6 +370,11 @@ a:hover {
     z-index: 2;
 }
 
+.annuaires a {
+    font-size: 15px;
+    line-height: 200%;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
