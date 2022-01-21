@@ -1,4 +1,5 @@
-4/ Optimiser un site web existant :
+# 4/ Optimiser un site web existant
+
 Html/css/js - site web existant - Front-end
 - Assurer l’accessibilité d’un site web.
 - Écrire un code HTML et CSS maintenable.
@@ -6,4 +7,16 @@ Html/css/js - site web existant - Front-end
 - Réaliser une recherche de bonnes pratiques en développement web.
 -optimiser la taille et la vitesse d’un site web.
 
-https://shigni.github.io/LouisServant_4_15012021/
+
+## Demo
+
+ https://shigni.github.io/LouisServant_4_15012021/
+
+
+## Authors
+
+- [@Shigni](https://www.github.com/shigni)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-servant-0985761ba/)
